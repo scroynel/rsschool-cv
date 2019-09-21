@@ -47,3 +47,8 @@ Because there is an opportunity not to attached to a place, freedom (there is no
 
 - R&A Incorporation (4 month) (r-a.tech)   
 - AR Praha (WordPress – 3 month) (arprague.com, arpraga.com)
+
+**Education:** 
+
+ - Pridneprovsk State Academy of Civil Engineering and Architecture, Dnepr – master   
+ - Courses at the Computer Academy “STEP”, Dnepr - Frontend developer
