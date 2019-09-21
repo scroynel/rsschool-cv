@@ -52,3 +52,7 @@ Because there is an opportunity not to attached to a place, freedom (there is no
 
  - Pridneprovsk State Academy of Civil Engineering and Architecture, Dnepr – master   
  - Courses at the Computer Academy “STEP”, Dnepr - Frontend developer
+
+**English:**
+
+- My English is at the level of reading technical documentation, no experience in spoken English.
