@@ -42,3 +42,8 @@ Because there is an opportunity not to attached to a place, freedom (there is no
 ```
 
 [gold-sound.com.ua](http://gold-sound.com.ua/)
+
+**Experience:**
+
+- R&A Incorporation (4 month) (r-a.tech)   
+- AR Praha (WordPress – 3 month) (arprague.com, arpraga.com)
