@@ -1,0 +1,52 @@
+*, html, body{margin: 0; padding: 0;}
+
+body{
+    font-family: 'Roboto Slab', sans-serif;
+}
+
+.wrapper{
+    max-width: 1024px;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+header{
+    width: 100%;
+    background: #c6ffdd;
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.myphoto{
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid #f7797d;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+ul{
+    margin-left: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+section{
+    width: 100%;
+    padding-top: 40px
+}
+
+.mtop{
+    margin-top: 40px;
+}
